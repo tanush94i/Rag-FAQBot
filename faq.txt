@@ -1,0 +1,99 @@
+What is the capital of France?
+The capital of France is Paris. It is known as the "City of Light" and is famous for its rich history, culture, fashion, and landmarks such as the Eiffel Tower, Notre-Dame Cathedral, and the Louvre Museum.
+@@@
+Who discovered gravity?
+Gravity was discovered by Sir Isaac Newton in the 17th century. The story goes that he formulated the theory after observing an apple fall from a tree, leading to his groundbreaking work in classical physics, including the laws of motion and universal gravitation.
+@@@
+What is the chemical symbol for water?
+The chemical symbol for water is H₂O. This means each molecule of water consists of two hydrogen atoms and one oxygen atom, forming a liquid essential for all known forms of life.
+@@@
+Who wrote 'Hamlet'?
+The play *Hamlet* was written by William Shakespeare, an English playwright and poet. It is one of his most famous tragedies, following the story of Prince Hamlet of Denmark as he seeks revenge for his father’s murder.
+@@@
+What is the speed of light?
+The speed of light in a vacuum is approximately 299,792 kilometers per second (186,282 miles per second). It is the fastest speed at which energy, information, or matter can travel according to the laws of physics.
+@@@
+What is the largest planet in our solar system?
+Jupiter is the largest planet in our solar system. It is a gas giant primarily composed of hydrogen and helium, with a massive storm system known as the Great Red Spot, which has been raging for centuries.
+@@@
+What is the square root of 144?
+The square root of 144 is 12. This means that 12 multiplied by itself (12 × 12) equals 144.
+@@@
+Who painted the Mona Lisa?
+The *Mona Lisa* was painted by Leonardo da Vinci, a Renaissance artist, scientist, and inventor. The painting is famous for its subject's enigmatic smile and is displayed at the Louvre Museum in Paris.
+@@@
+What is the freezing point of water in Celsius?
+The freezing point of water in Celsius is 0°C. This is the temperature at which water transitions from a liquid to a solid under standard atmospheric pressure.
+@@@
+Who was the first person to step on the moon?
+Neil Armstrong was the first person to step on the moon on July 20, 1969, during NASA’s Apollo 11 mission. His famous words upon stepping onto the lunar surface were, "That's one small step for man, one giant leap for mankind."
+@@@
+Which is the longest river in the world?
+The Nile River is considered the longest river in the world, stretching approximately 6,650 kilometers (4,130 miles). It flows through northeastern Africa, primarily Egypt and Sudan, and has played a crucial role in the development of ancient civilizations.
+@@@
+How many continents are there on Earth?
+There are seven continents on Earth: Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Each continent has unique geographical, cultural, and historical significance.
+@@@
+What is the smallest prime number?
+The smallest prime number is 2. It is the only even prime number, as all other even numbers can be divided by 2.
+@@@
+What is the national animal of India?
+The national animal of India is the Bengal Tiger. It symbolizes strength, agility, and power and is an important part of Indian wildlife conservation efforts.
+@@@
+Which gas do plants absorb from the atmosphere?
+Plants absorb carbon dioxide (CO₂) from the atmosphere during photosynthesis, a process in which they convert light energy into chemical energy to produce oxygen and glucose.
+@@@
+Who invented the telephone?
+The telephone was invented by Alexander Graham Bell in 1876. His invention revolutionized communication, allowing people to speak over long distances instantly.
+@@@
+What is the currency of Japan?
+The currency of Japan is the Japanese Yen (¥). It is one of the most widely traded currencies in the world and is recognized by the symbol JPY in financial markets.
+@@@
+Which is the hardest natural substance on Earth?
+Diamond is the hardest natural substance on Earth. It is composed of carbon atoms arranged in a crystal structure, making it extremely strong and useful for industrial cutting tools and jewelry.
+@@@
+Which ocean is the largest?
+The Pacific Ocean is the largest ocean on Earth, covering about 63 million square miles (165 million square kilometers). It extends from the Arctic in the north to the Southern Ocean in the south.
+@@@
+What is the powerhouse of the cell?
+The mitochondria are known as the powerhouse of the cell. These organelles generate energy in the form of ATP (adenosine triphosphate) through a process called cellular respiration.
+@@@
+What year did World War II end?
+World War II ended in 1945. The war concluded with Germany’s surrender on May 8, 1945, in Europe and Japan’s surrender on September 2, 1945, after the atomic bombings of Hiroshima and Nagasaki.
+@@@
+Who is known as the father of computers?
+Charles Babbage is considered the father of computers. In the 19th century, he designed the Analytical Engine, a mechanical computing device that laid the foundation for modern computing.
+@@@
+What is the longest bone in the human body?
+The longest bone in the human body is the femur, also known as the thigh bone. It extends from the hip to the knee and plays a crucial role in supporting body weight and movement.
+@@@
+What is the boiling point of water in Fahrenheit?
+The boiling point of water in Fahrenheit is 212°F under standard atmospheric pressure. This is equivalent to 100°C in the Celsius scale.
+@@@
+Which language has the most native speakers in the world?
+Mandarin Chinese has the most native speakers in the world, with over 900 million people speaking it as their first language. It is the official language of China and one of the six official languages of the United Nations.
+@@@
+What is the tallest mountain in the world?
+Mount Everest is the tallest mountain in the world, standing at approximately 8,848 meters (29,029 feet) above sea level. It is located in the Himalayas on the border between Nepal and Tibet.
+@@@
+How many chambers does the human heart have?
+The human heart has four chambers: the right atrium, right ventricle, left atrium, and left ventricle. These chambers work together to pump oxygenated and deoxygenated blood throughout the body.
+@@@
+Who developed the theory of relativity?
+Albert Einstein developed the theory of relativity, which consists of the special and general theories. His famous equation, E=mc², describes the relationship between energy and mass.
+@@@
+What is the sum of the angles in a triangle?
+The sum of the interior angles in a triangle is always 180 degrees. This applies to all types of triangles in Euclidean geometry.
+@@@
+Which country has the highest population?
+China currently has the highest population in the world, with over 1.4 billion people. However, India is projected to surpass China in population soon.
+@@@
+Who is the founder of Microsoft?
+Microsoft was founded by Bill Gates and Paul Allen in 1975. It is one of the largest technology companies in the world, known for its Windows operating system and Microsoft Office suite.
+@@@
+What does HTTP stand for?
+HTTP stands for HyperText Transfer Protocol. It is the foundation of data communication on the World Wide Web and is used to transfer and receive webpages over the internet.
+@@@
+Which metal is liquid at room temperature?
+Mercury is the only metal that is liquid at room temperature. It is used in thermometers, barometers, and other scientific instruments.
+@@@
